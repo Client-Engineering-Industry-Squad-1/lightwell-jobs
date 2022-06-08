@@ -24,7 +24,7 @@ spec:
           - "./lightwell-sql.sh"
         env:
           - name: DB_NAME
-            value: "B2BIDB"
+            value: "FW"
           - name: DB_SERVER_HOST
             value: "pepsi-b2bi-poc-sql1.database.windows.net"
           - name: DB_PORT
